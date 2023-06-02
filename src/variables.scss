@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Roboto-normal';
+  src: url("./fonts/Roboto-Regular.ttf") format('truetype');
+  font-weight: normal;
+};
+@font-face {
+  font-family: 'Roboto-bold';
+  src: url("./fonts/Roboto-Bold.ttf") format('truetype');
+  font-weight: bold;
+};
+
+$first-color: #FF6A3A;
+$second-color: #FF527B;
+$text-color: #232742;
